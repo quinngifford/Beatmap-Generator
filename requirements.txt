@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12    # bundles libsndfile; decodes wav/flac/ogg/aiff, and mp3 from 1.1.0
+
+# Optional extra decoder, only consulted if soundfile fails on a file:
+# audioread>=3.0
