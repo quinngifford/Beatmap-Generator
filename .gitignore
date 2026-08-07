@@ -8,10 +8,5 @@ dist/
 # Generated on demand by tests/make_test_audio.py
 tests/fixtures/
 
-# Default CLI output directory
-charts/
-
-# Your audio. Large, and usually not yours to redistribute.
-songs/*
 !songs/.gitkeep
 !songs/README.txt
